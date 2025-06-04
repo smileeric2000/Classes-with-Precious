@@ -1,0 +1,10 @@
+image_path,x,y,w,h
+facial_recognition\train\precious\presh01.jpg,75,58,76,76
+facial_recognition\train\precious\presh02.jpg,72,78,104,104
+facial_recognition\train\precious\presh03.jpg,48,59,135,135
+facial_recognition\train\precious\presh04.jpg,129,134,55,55
+facial_recognition\train\prince\prince.jpg,58,57,100,100
+facial_recognition\train\prince\prince01.jpg,55,52,115,115
+facial_recognition\train\prince\prince02.jpg,60,28,96,96
+facial_recognition\train\smile\smile01.jpg,54,80,97,97
+facial_recognition\train\smile\smile03.jpg,40,50,87,87
